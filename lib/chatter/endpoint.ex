@@ -36,7 +36,7 @@ defmodule Chatter.Endpoint do
   plug Plug.Session,
     store: :cookie,
     key: "_chatter_key",
-    signing_salt: "1Jwj+AXZ"
+    signing_salt: "eFXxWv51"
 
   plug Chatter.Router
 end
