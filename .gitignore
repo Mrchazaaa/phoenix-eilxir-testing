@@ -26,3 +26,5 @@ erl_crash.dump
 /config/dev.exs
 
 /config/test.exs
+
+package-lock.json
